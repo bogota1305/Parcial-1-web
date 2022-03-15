@@ -1,0 +1,215 @@
+@charset "utf-8";
+/* CSS Document */
+
+.logo {
+  position: absolute;
+  width: 500px;
+  height: 62px;
+  left: 42px;
+  top: 27px;
+
+  font-family: "Rochester", cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 62px;
+}
+
+.menu {
+  position: absolute;
+  width: 1440px;
+  height: 110px;
+  left: 0px;
+  top: 29px;
+
+  border-bottom: #000;
+  border: #000;
+  border-radius: 2;
+  border-width: medium;
+  background: #fff;
+}
+
+.image1 {
+  position: absolute;
+  width: 80px;
+  height: 81px;
+  left: 1257px;
+  top: 29px;
+}
+
+.line1 {
+  position: absolute;
+  width: 1440px;
+  height: 0px;
+  left: 0px;
+  top: 124px;
+  color: #000;
+  border: 1px solid #000000;
+}
+
+.image2 {
+  position: absolute;
+  width: 1440px;
+  height: 344px;
+  left: 0px;
+  top: 149px;
+}
+
+.line2 {
+  position: absolute;
+  width: 1440px;
+  height: 0px;
+  left: 0px;
+  top: 504px;
+  color: #000;
+  border: 1px solid #000000;
+}
+
+.menu2 {
+  position: absolute;
+  width: 1440px;
+  height: 81px;
+  left: 0px;
+  top: 514px;
+  color: #fff;
+  background: #333a40;
+}
+
+.btn1 {
+  position: absolute;
+  width: 86px;
+  height: 27px;
+  left: 53px;
+  top: 27px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 21px;
+  text-decoration-line: underline;
+
+  color: #ffffff;
+}
+
+.btn2 {
+  position: absolute;
+  width: 86px;
+  height: 27px;
+  left: 187px;
+  top: 27px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #ffffff;
+}
+
+.btn3 {
+  position: absolute;
+  width: 86px;
+  height: 27px;
+  left: 321px;
+  top: 27px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #ffffff;
+}
+
+.btn4 {
+  position: absolute;
+  width: 86px;
+  height: 27px;
+  left: 455px;
+  top: 27px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #ffffff;
+}
+
+.btn5 {
+  position: absolute;
+  width: 156px;
+  height: 27px;
+  left: 589px;
+  top: 27px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #ffffff;
+}
+
+.burguers {
+  position: absolute;
+  width: 1410px;
+  height: 35px;
+  left: calc(50% - 1410px / 2 + 15px);
+  top: 625px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.card1 {
+  position: absolute;
+  width: 262px;
+  height: 327px;
+  left: 182px;
+  top: 677px;
+
+  border: 1px solid rgba(0, 0, 0, 0.11);
+  box-sizing: border-box;
+}
+.card2 {
+  position: absolute;
+  width: 262px;
+  height: 327px;
+  left: 462px;
+  top: 677px;
+
+  border: 1px solid rgba(0, 0, 0, 0.11);
+  box-sizing: border-box;
+}
+.card3 {
+  position: absolute;
+  width: 262px;
+  height: 327px;
+  left: 746px;
+  top: 677px;
+
+  border: 1px solid rgba(0, 0, 0, 0.11);
+  box-sizing: border-box;
+}
+.card4 {
+  position: absolute;
+  width: 262px;
+  height: 327px;
+  left: 1026px;
+  top: 676px;
+
+  border: 1px solid rgba(0, 0, 0, 0.11);
+  box-sizing: border-box;
+}

@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+.logo {
+  position: absolute;
+  width: 344px;
+  height: 62px;
+  left: 42px;
+  top: 56px;
+
+  font-family: "Rochester";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 62px;
+
+  color: #000000;
+}
+
+.menu {
+  position: absolute;
+  width: 1440px;
+  height: 110px;
+  left: 0px;
+  top: 29px;
+
+  background: #ffffff;
+}
